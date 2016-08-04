@@ -12,5 +12,9 @@ color:
     - '#004E98'
 layout_spectrum: 0.06196308718062937
 name: ULTRA
+navigation:
+  - name: Production Co.
+    url: www.speakeasyproject.com
+    type: external
 title: ULTRA
 description: Everybody hurts
