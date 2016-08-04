@@ -11,7 +11,7 @@ color:
     - '#3A6EA5'
     - '#004E98'
 layout_spectrum: 0.06196308718062937
-name: ULTRA
+name: a creative documentary on running
 navigation:
   - name: Production Co.
     url: www.speakeasyproject.com
@@ -19,5 +19,5 @@ navigation:
   - name: Official website
     url: www.ultradocumentary.com
     type: external
-title: ULTRA - a creative documentary on running
+title: ULTRA
 description: Everybody hurts
