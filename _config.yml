@@ -1,4 +1,3 @@
-layout_spectrum: 0.06196308718062937
 typography_spectrum: 0.06225472642108798
 color:
   brandStrength: 0.21508083143271506
@@ -11,5 +10,7 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
+layout_spectrum: 0.06196308718062937
 name: ULTRA
 title: ULTRA
+description: Everybody hurts
